@@ -1,7 +1,7 @@
 # IMDB_scrapper
 This is a script written to extract all relevant information related to top 100 movies from the website:https://www.imdb.com/search/title/?count=100&groups=top_1000&sort=user_rating%27
 
-## Following features were considered:
+###### Following features were considered:
 - 1. Date of scraping
 - 2. title (movie name)
 - 3. certification
