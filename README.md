@@ -1,7 +1,7 @@
 # IMDB_scrapper
 This is a script written to extract all relevant information related to top 100 movies from the website:https://www.imdb.com/search/title/?count=100&groups=top_1000&sort=user_rating%27
 
-###### Following features were considered:
+###### Step 1: Following features were considered:
 - 1. Date of scraping
 - 2. title (movie name)
 - 3. certification
@@ -34,5 +34,5 @@ This is a script written to extract all relevant information related to top 100 
 - 30. sound_mix
 - 31. aspect_ratio
 
-###### All the above features are extracted for top 100 movies listed on the webpage.
-###### After extraction, all the information about each movie is stored in a json format.
+###### Step 2: All the above features are extracted for top 100 movies listed on the webpage.
+###### Step 3: After extraction, all the information about each movie is stored in a json format.
