@@ -4,7 +4,7 @@ This is a script written to extract all relevant information related to top 100 
 ## Following features were considered:
 - 1. Date of scraping
 - 2. title (movie name)
-- 3-7. certification
+- 3. certification
 - 4. duration of the movie (time)
 - 5. genre
 - 6. release date
@@ -24,7 +24,7 @@ This is a script written to extract all relevant information related to top 100 
 - 20. all actors and their characters in the movie
 - 21. plot
 - 22. plot keywords
-- 23-31. languages
+- 23. languages
 - 24. filming_location
 - 25. budget
 - 26. opening_weekend
@@ -34,5 +34,5 @@ This is a script written to extract all relevant information related to top 100 
 - 30. sound_mix
 - 31. aspect_ratio
 
-** All the above features are extracted for top 100 movies listed on the webpage.
-** After extraction, all the information about each movie is stored in a json format.
+###### All the above features are extracted for top 100 movies listed on the webpage.
+###### After extraction, all the information about each movie is stored in a json format.
